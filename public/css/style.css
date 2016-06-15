@@ -24,7 +24,12 @@ body {
 	position: relative;
 }
 
-/*.content:before {
+
+/*
+
+DEBUGGING 
+
+.content:before {
 	content: '';
 	width: 1px;
 	height: 100%;
@@ -43,5 +48,17 @@ body {
 	left: 0;
 	background: red;
 }
+
 */
 
+
+
+#group_0 {
+	stroke: red;
+}
+
+.group {
+	stroke: black;
+	stroke-width: 1;
+
+}
